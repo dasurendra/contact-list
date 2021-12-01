@@ -1,0 +1,22 @@
+/* contactTable */
+
+* {
+  background-color: rgb(234, 234, 0.2);
+}
+.single-contact {
+  transition: 0.5s ease;
+}
+.main-items {
+  overflow-y: scroll;
+  scroll-behavior: smooth;
+  margin: auto;
+  padding: 3rem 2rem;
+  width: 400px;
+  height: 80vh;
+}
+
+.user-name {
+  color: darkblue;
+  font-size: 1.4rem;
+  font-weight: 400;
+}
